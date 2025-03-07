@@ -28,4 +28,4 @@ RSRS<sub>std</sub> =(RSRS−μ)/σ <br>
 1、now>open: **buy**<br>
 2、now<=open &  now、open>ma(5)_today: **buy**<br>
 3、now、open<ma(5)_today: **sell**<br>
-3、else：**keep**<br>
+4、else：**keep**<br>
